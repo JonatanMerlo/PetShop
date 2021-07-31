@@ -322,6 +322,10 @@ ul{
     .barraSupHeader{
         display: none;
     }
+
+    .headerMain h2{
+        text-align: center;
+    }
     
     .navbar{
         align-items: center;
