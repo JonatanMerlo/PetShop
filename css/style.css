@@ -369,3 +369,10 @@ ul{
     }
 
 }
+
+@media screen and (max-width: 3600px) {  
+
+    .headerMain h2{
+        text-align: center;
+    }
+}
